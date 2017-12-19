@@ -1,0 +1,72 @@
+{
+    GameNumber: 1,
+    Date: '12/18/2017',
+    Map: 'Nuke',
+    Winner: 'TeamOne',
+    TeamOneScore: 19,
+    TeamTwoScore: 15,
+    TeamOne: [
+                {
+                    Name: 'Danny',
+                    Kills: 30,
+                    Assists: 4,
+                    Deaths: 22,
+                },
+                {   
+                    Name: 'Sam',
+                    Kills: 37,
+                    Assists: 3,
+                    Deaths: 25,
+                },
+                {   
+                    Name: 'Brendan',
+                    Kills: 18,
+                    Assists: 2,
+                    Deaths: 25,
+                },
+                {   
+                    Name: 'Ryan',
+                    Kills: 32,
+                    Assists: 6,
+                    Deaths: 27,
+                },
+                {   
+                    Name: 'Brett',
+                    Kills: 9,
+                    Assists: 5,
+                    Deaths: 29,
+                },          
+            ],
+    TeamTwo: [
+                {    
+                    Name: 'Kochan',
+                    Kills: 33,
+                    Assists: 5,
+                    Deaths: 24,
+                },
+                {   
+                    Name: 'Joe',
+                    Kills: 32,
+                    Assists: 8,
+                    Deaths: 22,
+                },
+                {   
+                    Name: 'Tommy',
+                    Kills: 32,
+                    Assists: 5,
+                    Deaths: 24,
+                },
+               {   
+                    Name: 'Dubble',
+                    Kills: 21,
+                    Assists: 8,
+                    Deaths: 27,
+                },
+                {   
+                    Name: 'Matt',
+                    Kills: 10,
+                    Assists: 5,
+                    Deaths: 29,
+                },
+            ],
+}
